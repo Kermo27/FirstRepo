@@ -1,2 +1,2 @@
 # FirstRepo
-zmiana
+git-scm.com "ProGit"
